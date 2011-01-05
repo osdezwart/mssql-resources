@@ -1,0 +1,10 @@
+# Introduction
+This repository contains a collection of usefull mssql (Microsoft Sql Server) resources.
+
+## Table of Contents
+
+* top_sp_by_logical_reads.sql
+* top_sp_by_execution_count.sql
+* top_sp_by_total_worker_time.sql
+* find_missing_indexes.sql
+* who_is_active_v10_00.sql
