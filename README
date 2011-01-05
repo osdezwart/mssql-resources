@@ -9,4 +9,4 @@ This repository contains a collection of usefull mssql (Microsoft Sql Server) re
 * find_missing_indexes.sql
 * who_is_active_v10_00.sql
 
-* Index analysis
+* Index analysis (http://indexanalysis.codeplex.com/)
